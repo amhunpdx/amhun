@@ -1,0 +1,37 @@
+running egg_info
+creating ../../build/piduino_test_01/piduino_test_01.egg-info
+writing ../../build/piduino_test_01/piduino_test_01.egg-info/PKG-INFO
+writing dependency_links to ../../build/piduino_test_01/piduino_test_01.egg-info/dependency_links.txt
+writing requirements to ../../build/piduino_test_01/piduino_test_01.egg-info/requires.txt
+writing top-level names to ../../build/piduino_test_01/piduino_test_01.egg-info/top_level.txt
+writing manifest file '../../build/piduino_test_01/piduino_test_01.egg-info/SOURCES.txt'
+reading manifest file '../../build/piduino_test_01/piduino_test_01.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/piduino_test_01/piduino_test_01.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/lac/workspace/amhun/build/piduino_test_01/build
+creating /home/lac/workspace/amhun/build/piduino_test_01/build/lib
+creating /home/lac/workspace/amhun/build/piduino_test_01/build/lib/piduino_test_01
+copying piduino_test_01/__init__.py -> /home/lac/workspace/amhun/build/piduino_test_01/build/lib/piduino_test_01
+copying piduino_test_01/subscriber.py -> /home/lac/workspace/amhun/build/piduino_test_01/build/lib/piduino_test_01
+copying piduino_test_01/publisher.py -> /home/lac/workspace/amhun/build/piduino_test_01/build/lib/piduino_test_01
+running install
+running install_lib
+creating /home/lac/workspace/amhun/install/piduino_test_01/lib/python3.12/site-packages/piduino_test_01
+copying /home/lac/workspace/amhun/build/piduino_test_01/build/lib/piduino_test_01/__init__.py -> /home/lac/workspace/amhun/install/piduino_test_01/lib/python3.12/site-packages/piduino_test_01
+copying /home/lac/workspace/amhun/build/piduino_test_01/build/lib/piduino_test_01/subscriber.py -> /home/lac/workspace/amhun/install/piduino_test_01/lib/python3.12/site-packages/piduino_test_01
+copying /home/lac/workspace/amhun/build/piduino_test_01/build/lib/piduino_test_01/publisher.py -> /home/lac/workspace/amhun/install/piduino_test_01/lib/python3.12/site-packages/piduino_test_01
+byte-compiling /home/lac/workspace/amhun/install/piduino_test_01/lib/python3.12/site-packages/piduino_test_01/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/lac/workspace/amhun/install/piduino_test_01/lib/python3.12/site-packages/piduino_test_01/subscriber.py to subscriber.cpython-312.pyc
+byte-compiling /home/lac/workspace/amhun/install/piduino_test_01/lib/python3.12/site-packages/piduino_test_01/publisher.py to publisher.cpython-312.pyc
+running install_data
+creating /home/lac/workspace/amhun/install/piduino_test_01/share/ament_index
+creating /home/lac/workspace/amhun/install/piduino_test_01/share/ament_index/resource_index
+creating /home/lac/workspace/amhun/install/piduino_test_01/share/ament_index/resource_index/packages
+copying resource/piduino_test_01 -> /home/lac/workspace/amhun/install/piduino_test_01/share/ament_index/resource_index/packages
+copying package.xml -> /home/lac/workspace/amhun/install/piduino_test_01/share/piduino_test_01
+running install_egg_info
+Copying ../../build/piduino_test_01/piduino_test_01.egg-info to /home/lac/workspace/amhun/install/piduino_test_01/lib/python3.12/site-packages/piduino_test_01-0.0.0-py3.12.egg-info
+running install_scripts
+writing list of installed files to '/home/lac/workspace/amhun/build/piduino_test_01/install.log'

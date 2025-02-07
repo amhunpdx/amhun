@@ -1,0 +1,3 @@
+[console_scripts]
+publisher = piduino_test_01.publisher:main
+subscriber = piduino_test_01.subscriber:main
