@@ -1,0 +1,39 @@
+[1.197s] Invoking command in '/home/lac/workspace/amhun/src/piduino_test_01': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/lac/workspace/amhun/build/piduino_test_01/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lac/workspace/amhun/install/piduino_test_01/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/piduino_test_01 build --build-base /home/lac/workspace/amhun/build/piduino_test_01/build install --record /home/lac/workspace/amhun/build/piduino_test_01/install.log --single-version-externally-managed install_data
+[1.549s] running egg_info
+[1.550s] creating ../../build/piduino_test_01/piduino_test_01.egg-info
+[1.573s] writing ../../build/piduino_test_01/piduino_test_01.egg-info/PKG-INFO
+[1.573s] writing dependency_links to ../../build/piduino_test_01/piduino_test_01.egg-info/dependency_links.txt
+[1.574s] writing requirements to ../../build/piduino_test_01/piduino_test_01.egg-info/requires.txt
+[1.574s] writing top-level names to ../../build/piduino_test_01/piduino_test_01.egg-info/top_level.txt
+[1.574s] writing manifest file '../../build/piduino_test_01/piduino_test_01.egg-info/SOURCES.txt'
+[1.624s] reading manifest file '../../build/piduino_test_01/piduino_test_01.egg-info/SOURCES.txt'
+[1.625s] adding license file 'LICENSE'
+[1.625s] writing manifest file '../../build/piduino_test_01/piduino_test_01.egg-info/SOURCES.txt'
+[1.625s] running build
+[1.625s] running build_py
+[1.626s] creating /home/lac/workspace/amhun/build/piduino_test_01/build
+[1.626s] creating /home/lac/workspace/amhun/build/piduino_test_01/build/lib
+[1.626s] creating /home/lac/workspace/amhun/build/piduino_test_01/build/lib/piduino_test_01
+[1.626s] copying piduino_test_01/__init__.py -> /home/lac/workspace/amhun/build/piduino_test_01/build/lib/piduino_test_01
+[1.626s] copying piduino_test_01/subscriber.py -> /home/lac/workspace/amhun/build/piduino_test_01/build/lib/piduino_test_01
+[1.626s] copying piduino_test_01/publisher.py -> /home/lac/workspace/amhun/build/piduino_test_01/build/lib/piduino_test_01
+[1.627s] running install
+[1.636s] running install_lib
+[1.660s] creating /home/lac/workspace/amhun/install/piduino_test_01/lib/python3.12/site-packages/piduino_test_01
+[1.661s] copying /home/lac/workspace/amhun/build/piduino_test_01/build/lib/piduino_test_01/__init__.py -> /home/lac/workspace/amhun/install/piduino_test_01/lib/python3.12/site-packages/piduino_test_01
+[1.661s] copying /home/lac/workspace/amhun/build/piduino_test_01/build/lib/piduino_test_01/subscriber.py -> /home/lac/workspace/amhun/install/piduino_test_01/lib/python3.12/site-packages/piduino_test_01
+[1.661s] copying /home/lac/workspace/amhun/build/piduino_test_01/build/lib/piduino_test_01/publisher.py -> /home/lac/workspace/amhun/install/piduino_test_01/lib/python3.12/site-packages/piduino_test_01
+[1.662s] byte-compiling /home/lac/workspace/amhun/install/piduino_test_01/lib/python3.12/site-packages/piduino_test_01/__init__.py to __init__.cpython-312.pyc
+[1.662s] byte-compiling /home/lac/workspace/amhun/install/piduino_test_01/lib/python3.12/site-packages/piduino_test_01/subscriber.py to subscriber.cpython-312.pyc
+[1.663s] byte-compiling /home/lac/workspace/amhun/install/piduino_test_01/lib/python3.12/site-packages/piduino_test_01/publisher.py to publisher.cpython-312.pyc
+[1.663s] running install_data
+[1.663s] creating /home/lac/workspace/amhun/install/piduino_test_01/share/ament_index
+[1.663s] creating /home/lac/workspace/amhun/install/piduino_test_01/share/ament_index/resource_index
+[1.663s] creating /home/lac/workspace/amhun/install/piduino_test_01/share/ament_index/resource_index/packages
+[1.664s] copying resource/piduino_test_01 -> /home/lac/workspace/amhun/install/piduino_test_01/share/ament_index/resource_index/packages
+[1.664s] copying package.xml -> /home/lac/workspace/amhun/install/piduino_test_01/share/piduino_test_01
+[1.664s] running install_egg_info
+[1.690s] Copying ../../build/piduino_test_01/piduino_test_01.egg-info to /home/lac/workspace/amhun/install/piduino_test_01/lib/python3.12/site-packages/piduino_test_01-0.0.0-py3.12.egg-info
+[1.691s] running install_scripts
+[1.867s] writing list of installed files to '/home/lac/workspace/amhun/build/piduino_test_01/install.log'
+[1.951s] Invoked command in '/home/lac/workspace/amhun/src/piduino_test_01' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/lac/workspace/amhun/build/piduino_test_01/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lac/workspace/amhun/install/piduino_test_01/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/piduino_test_01 build --build-base /home/lac/workspace/amhun/build/piduino_test_01/build install --record /home/lac/workspace/amhun/build/piduino_test_01/install.log --single-version-externally-managed install_data

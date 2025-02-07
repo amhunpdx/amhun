@@ -1,0 +1,23 @@
+[1.232s] Invoking command in '/home/lac/workspace/amhun/src/piduino_test_01': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/lac/workspace/amhun/build/piduino_test_01/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lac/workspace/amhun/install/piduino_test_01/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/piduino_test_01 build --build-base /home/lac/workspace/amhun/build/piduino_test_01/build install --record /home/lac/workspace/amhun/build/piduino_test_01/install.log --single-version-externally-managed install_data
+[1.585s] running egg_info
+[1.611s] writing ../../build/piduino_test_01/piduino_test_01.egg-info/PKG-INFO
+[1.611s] writing dependency_links to ../../build/piduino_test_01/piduino_test_01.egg-info/dependency_links.txt
+[1.612s] writing entry points to ../../build/piduino_test_01/piduino_test_01.egg-info/entry_points.txt
+[1.612s] writing requirements to ../../build/piduino_test_01/piduino_test_01.egg-info/requires.txt
+[1.612s] writing top-level names to ../../build/piduino_test_01/piduino_test_01.egg-info/top_level.txt
+[1.662s] reading manifest file '../../build/piduino_test_01/piduino_test_01.egg-info/SOURCES.txt'
+[1.663s] adding license file 'LICENSE'
+[1.663s] writing manifest file '../../build/piduino_test_01/piduino_test_01.egg-info/SOURCES.txt'
+[1.664s] running build
+[1.664s] running build_py
+[1.664s] running install
+[1.673s] running install_lib
+[1.699s] running install_data
+[1.699s] running install_egg_info
+[1.728s] removing '/home/lac/workspace/amhun/install/piduino_test_01/lib/python3.12/site-packages/piduino_test_01-0.0.0-py3.12.egg-info' (and everything under it)
+[1.728s] Copying ../../build/piduino_test_01/piduino_test_01.egg-info to /home/lac/workspace/amhun/install/piduino_test_01/lib/python3.12/site-packages/piduino_test_01-0.0.0-py3.12.egg-info
+[1.729s] running install_scripts
+[1.904s] Installing publisher script to /home/lac/workspace/amhun/install/piduino_test_01/lib/piduino_test_01
+[1.904s] Installing subscriber script to /home/lac/workspace/amhun/install/piduino_test_01/lib/piduino_test_01
+[1.905s] writing list of installed files to '/home/lac/workspace/amhun/build/piduino_test_01/install.log'
+[1.982s] Invoked command in '/home/lac/workspace/amhun/src/piduino_test_01' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/lac/workspace/amhun/build/piduino_test_01/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/lac/workspace/amhun/install/piduino_test_01/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/piduino_test_01 build --build-base /home/lac/workspace/amhun/build/piduino_test_01/build install --record /home/lac/workspace/amhun/build/piduino_test_01/install.log --single-version-externally-managed install_data

@@ -1,0 +1,21 @@
+running egg_info
+writing ../../build/piduino_test_01/piduino_test_01.egg-info/PKG-INFO
+writing dependency_links to ../../build/piduino_test_01/piduino_test_01.egg-info/dependency_links.txt
+writing entry points to ../../build/piduino_test_01/piduino_test_01.egg-info/entry_points.txt
+writing requirements to ../../build/piduino_test_01/piduino_test_01.egg-info/requires.txt
+writing top-level names to ../../build/piduino_test_01/piduino_test_01.egg-info/top_level.txt
+reading manifest file '../../build/piduino_test_01/piduino_test_01.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/piduino_test_01/piduino_test_01.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/lac/workspace/amhun/install/piduino_test_01/lib/python3.12/site-packages/piduino_test_01-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../../build/piduino_test_01/piduino_test_01.egg-info to /home/lac/workspace/amhun/install/piduino_test_01/lib/python3.12/site-packages/piduino_test_01-0.0.0-py3.12.egg-info
+running install_scripts
+Installing publisher script to /home/lac/workspace/amhun/install/piduino_test_01/lib/piduino_test_01
+Installing subscriber script to /home/lac/workspace/amhun/install/piduino_test_01/lib/piduino_test_01
+writing list of installed files to '/home/lac/workspace/amhun/build/piduino_test_01/install.log'
